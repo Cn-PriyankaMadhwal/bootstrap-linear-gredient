@@ -1,1 +1,1 @@
-# bootstrap-linear-gredient
+# Bootstrap-linear-gradient
